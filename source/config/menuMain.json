@@ -1,0 +1,80 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "medidas",
+    "title": "1. Medidas de prevención, procedimiento contra derrames",
+    "breadcrumb": ["Inicio","medidas"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medidas",
+        "title": "1.1 Ubicación de kits antiderrames, gabinetes antiderrames",
+        "anchor": "ubicacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "medidas",
+        "title": "1.2 Protocolo de emergencia",
+        "anchor": "protocolo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "hojas",
+    "title": "2. Hojas de seguridad o tarjetas de emergencia",
+    "breadcrumb": ["Inicio","hojas"],
+    "path": "pages/2-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "hojas",
+        "title": "2.1 Reconocimiento de la hoja de seguridad: secciones, información, disposición",
+        "anchor": "reconocimiento"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "hojas",
+        "title": "2.2 Uso de una hoja de seguridad",
+        "anchor": "uso"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "protocolo1",
+    "title": "3. Protocolo de emergencias",
+    "breadcrumb": ["Inicio","protocolo1"],
+    "path": "pages/3-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "protocolo1",
+        "title": "3.1 Notificación",
+        "anchor": "notificacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "protocolo1",
+        "title": "3.2 Determinación de la fuente de derrame y señalización del área afectada",
+        "anchor": "determinacion"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "protocolo1",
+        "title": "3.3 Evaluación de daños, tipo de derrame y riesgos",
+        "anchor": "evaluacion"
+      }
+    ]
+  }
+]
